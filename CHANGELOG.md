@@ -5,6 +5,18 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
  and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [1.1.0](https://github.com/ildar-icoosoft/ii-utils/compare/v1.0.0...v1.1.0) (2020-12-01)
+
+
+### Bug Fixes
+
+* add NPM_TOKEN to github actions release.yml ([#4](https://github.com/ildar-icoosoft/ii-utils/issues/4)) ([2f45651](https://github.com/ildar-icoosoft/ii-utils/commit/2f45651b626a07b55bc31bc2fadd76819f3ade9c))
+
+
+### Features
+
+* enable npm publish in semantic release config ([#3](https://github.com/ildar-icoosoft/ii-utils/issues/3)) ([60a992a](https://github.com/ildar-icoosoft/ii-utils/commit/60a992a9b9f688eb10c0c6a13989593ced791474))
+
 # 1.0.0 (2020-12-01)
 
 
